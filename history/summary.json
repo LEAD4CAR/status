@@ -76,19 +76,19 @@
     "url": "https://admin.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/admin.lead4car.de",
     "slug": "admin-prd",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 490,
-    "timeDay": 650,
-    "timeWeek": 548,
+    "timeDay": 593,
+    "timeWeek": 540,
     "timeMonth": 489,
     "timeYear": 490,
     "dailyMinutesDown": {
-      "2022-03-22": 0
+      "2022-03-22": 2
     }
   },
   {
