@@ -4,143 +4,159 @@
     "url": "https://portal.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/portal.lead4car.de",
     "slug": "portal-prd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 596,
-    "timeDay": 473,
-    "timeWeek": 638,
-    "timeMonth": 610,
-    "timeYear": 596,
-    "dailyMinutesDown": {}
+    "time": 597,
+    "timeDay": 694,
+    "timeWeek": 639,
+    "timeMonth": 614,
+    "timeYear": 597,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Portal UAT",
     "url": "https://uat.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/uat.lead4car.de",
     "slug": "portal-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 507,
-    "timeDay": 467,
-    "timeWeek": 544,
+    "timeDay": 511,
+    "timeWeek": 548,
     "timeMonth": 511,
     "timeYear": 507,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Portal DEV",
     "url": "https://dev.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/dev.lead4car.de",
     "slug": "portal-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 508,
-    "timeDay": 460,
-    "timeWeek": 556,
-    "timeMonth": 522,
-    "timeYear": 508,
-    "dailyMinutesDown": {}
+    "time": 515,
+    "timeDay": 1040,
+    "timeWeek": 636,
+    "timeMonth": 539,
+    "timeYear": 515,
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Portal DEMO",
     "url": "https://demo.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/demo.lead4car.de",
     "slug": "portal-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 497,
-    "timeDay": 431,
-    "timeWeek": 528,
+    "timeDay": 496,
+    "timeWeek": 530,
     "timeMonth": 501,
     "timeYear": 497,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Admin PRD",
     "url": "https://admin.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/admin.lead4car.de",
     "slug": "admin-prd",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 338,
+    "timeDay": 485,
     "timeWeek": 511,
-    "timeMonth": 496,
+    "timeMonth": 495,
     "timeYear": 487,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Admin UAT",
     "url": "https://admin-uat.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/admin-uat.lead4car.de",
     "slug": "admin-uat",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 478,
-    "timeDay": 334,
-    "timeWeek": 489,
+    "timeDay": 484,
+    "timeWeek": 490,
     "timeMonth": 490,
     "timeYear": 478,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Admin DEV",
     "url": "https://admin-dev.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/admin-dev.lead4car.de",
     "slug": "admin-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 479,
-    "timeDay": 336,
-    "timeWeek": 507,
+    "timeDay": 481,
+    "timeWeek": 506,
     "timeMonth": 482,
     "timeYear": 479,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   },
   {
     "name": "Admin DEMO",
     "url": "https://admin-demo.lead4car.de/",
     "icon": "https://favicons.githubusercontent.com/admin-demo.lead4car.de",
     "slug": "admin-demo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 480,
-    "timeDay": 452,
-    "timeWeek": 520,
+    "timeDay": 482,
+    "timeWeek": 519,
     "timeMonth": 489,
     "timeYear": 480,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-04-13": 0
+    }
   }
 ]
